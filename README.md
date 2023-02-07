@@ -6,4 +6,6 @@
 [TR] Programlama Dileri, Araçlar ve Çerçeveler
 
 ---------------------------------------------Languages and Tools:---------------------------------------------
-![image](https://user-images.githubusercontent.com/71177564/217306725-d3695327-4bb6-48b4-80e3-12152e2e8281.png)
+
+![image](https://user-images.githubusercontent.com/71177564/217307146-4ca4039e-8c6f-4949-af3a-350d583ee2ba.png) ![indir (2)](https://user-images.githubusercontent.com/71177564/217307359-bc587890-1a50-4695-b7bd-9443caf162a2.png)
+
