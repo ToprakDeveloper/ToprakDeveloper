@@ -7,5 +7,5 @@
 
 ---------------------------------------------Languages and Tools:---------------------------------------------
 
-https://www.w3.org/html/
+                        PYTHON - LUA - HTML - CSS - JAVASCRİPT - SQL - DiscordJS
 
