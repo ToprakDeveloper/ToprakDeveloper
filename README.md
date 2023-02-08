@@ -5,9 +5,9 @@
 	
                                                      [TR] Programlama Dileri, Araçlar ve Çerçeveler:
 
-                    ---------------------------------------------Languages and Tools:---------------------------------------------
+                    ----------------------------------------Languages and Tools:----------------------------------------
 
-                       --------------- PYTHON - LUA - HTML - CSS - JAVASCRİPT - SQL - DiscordJS - Batch File ---------------------
+                       ----------- PYTHON - LUA - HTML - CSS - JAVASCRİPT - SQL - DiscordJS - Batch File -----------------
 
                              ---------------------------
                             | Python = %90             |
