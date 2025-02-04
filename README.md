@@ -10,13 +10,15 @@
                        ----------- PYTHON - LUA - HTML - CSS - JAVASCRİPT - SQL - DiscordJS - Batch File -----------------
 
                              ---------------------------
-                            | Python = %90             |
-			    	| GDScript = %85	   |
-			        | Lua = %80                |   
-			        | Html = %10               |
-			        | Css = %10                |
+                            | Python = %50             |
+			    	| GDScript = %90	   |
+			        | Lua = %50                |   
+			        | Html = %80               |
+			        | Css = %80                |
 			        | JavaScript = %10         |
 			        | Sql = %30                |
-			        | DiscordJS = %40          |
+			        | DiscordJS = %70          |
 			        | Batch File = %40         |
 			         ---------------------------
+
+(githubu artık aktif olarak kullanmıyorum herşeyi gizliye aldım)
