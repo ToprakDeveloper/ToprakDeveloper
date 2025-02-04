@@ -20,5 +20,5 @@
 			        | DiscordJS = %70          |
 			        | Batch File = %40         |
 			         ---------------------------
+			(githubu artık aktif olarak kullanmıyorum herşeyi gizliye aldım)
 
-(githubu artık aktif olarak kullanmıyorum herşeyi gizliye aldım)
